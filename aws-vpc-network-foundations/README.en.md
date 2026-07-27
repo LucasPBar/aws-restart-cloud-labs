@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Secure Network Architecture with Amazon VPC, Bastion Host, and NAT Gateway</h1>
 
 <p align="center">
-  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bbfb0985-a56f-4c83-a37c-4063da34fbbd" />
+  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/ab2b2d9f-0ca6-45b7-b48d-43c0edded487" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Build a functional VPC, applying fundamental cloud network architecture concepts
 ## 3. Solution Architecture
 
 <p align="center">
-  <img width="750" height="471" alt="Image" src="https://github.com/user-attachments/assets/6a8fd33f-d66f-4a70-9965-6523c37c4536" />
+  <img width="750" height="471" alt="Image" src="https://github.com/user-attachments/assets/5257098f-0185-4579-8afc-4bcf94d47895" />
 </p>
 
 **Solution flow:**
