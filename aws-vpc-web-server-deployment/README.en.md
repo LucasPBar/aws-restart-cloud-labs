@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Multi-AZ Network with Amazon VPC and a Highly Available Web Server</h1>
 
 <p align="center">
-  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/c11e55e7-c3aa-41ce-906b-f05ac2355bf7" />
+  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/47667ffe-4ade-4db8-a64b-22bd9fff0d23" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Build the network infrastructure requested by the client and publish a functiona
 ## 3. Solution Architecture
 
 <p align="center">
-  <img width="789" height="379" alt="Image" src="https://github.com/user-attachments/assets/fd18bc02-e399-438f-b96d-1e3690a10e68" />
+  <img width="789" height="379" alt="Image" src="https://github.com/user-attachments/assets/557df15b-c0d1-4351-b860-39a47981f1dc" />
 </p>
 
 **Solution flow:**
