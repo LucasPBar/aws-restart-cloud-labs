@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸-Inglês-blue?style=for-the-badge" alt="English version"></a>
+  <img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge" alt="Versão em Português">
+</p>
+
 <h1 align="center">☁️ Portfólio de Projetos AWS: Cloud & Infraestrutura</h1>
 
 <p align="center">
@@ -12,7 +17,7 @@
 </p>
 
 <p align="center">
-  🇧🇷 Documentação em Português (versão em 🇺🇸 Inglês em desenvolvimento)
+  🇧🇷 Documentação em Português (versão em 🇺🇸 Inglês disponível acima)
 </p>
 
 <p align="center">
@@ -35,31 +40,31 @@ Os projetos estão organizados por área de foco: armazenamento e hospedagem, se
 
 ### 🪣 Armazenamento e Hospedagem
 
-**[🪣 Hospedagem de Site Estático com Amazon S3](./aws-s3-static-website-hosting)**
+**[🪣 Hospedagem de Site Estático com Amazon S3](./aws-s3-static-website-hosting)** — [EN](./aws-s3-static-website-hosting/README.en.md)
 
 Criação de um bucket Amazon S3 configurado para hospedar um site estático, com upload de arquivos via AWS CLI, políticas de acesso público controladas e um script de automação para atualizações repetíveis do site.
 
 ---
 
-**[🗄️ Gerenciamento de Armazenamento com Amazon EBS, IAM Role e Amazon S3](./aws-storage-management)**
+**[🗄️ Gerenciamento de Armazenamento com Amazon EBS, IAM Role e Amazon S3](./aws-storage-management)** — [EN](./aws-storage-management/README.en.md)
 
 Rotina de backup automatizado de volumes Amazon EBS via snapshots agendados, com uma IAM Role concedendo acesso seguro entre instâncias e o Amazon S3, além de sincronização de arquivos com versionamento ativo para recuperação de dados excluídos.
 
 ### 🔐 Segurança e Controle de Acesso
 
-**[🔐 Compartilhamento Seguro de Arquivos com Amazon S3, IAM e SNS](./aws-s3-file-sharing)**
+**[🔐 Compartilhamento Seguro de Arquivos com Amazon S3, IAM e SNS](./aws-s3-file-sharing)** — [EN](./aws-s3-file-sharing/README.en.md)
 
 Configuração de um ambiente seguro de compartilhamento de arquivos com um usuário externo, aplicando o Princípio do Menor Privilégio por meio de grupos e políticas IAM restritas, com notificações automáticas por e-mail sempre que o conteúdo do bucket é alterado.
 
 ### 🌐 Arquitetura de Rede
 
-**[🌐 Arquitetura de Rede Segura com Amazon VPC, Bastion Host e NAT Gateway](./aws-vpc-network-foundations)**
+**[🌐 Arquitetura de Rede Segura com Amazon VPC, Bastion Host e NAT Gateway](./aws-vpc-network-foundations)** — [EN](./aws-vpc-network-foundations/README.en.md)
 
 Construção de uma rede segmentada em sub-redes públicas e privadas, com um servidor bastion controlando o acesso administrativo e um NAT Gateway garantindo conectividade de saída segura para os recursos isolados da internet.
 
 ---
 
-**[🖥️ Rede Multi-AZ com Amazon VPC e Servidor Web em Alta Disponibilidade](./aws-vpc-web-server-deployment)**
+**[🖥️ Rede Multi-AZ com Amazon VPC e Servidor Web em Alta Disponibilidade](./aws-vpc-web-server-deployment)** — [EN](./aws-vpc-web-server-deployment/README.en.md)
 
 Construção de uma rede distribuída em duas Zonas de Disponibilidade a partir de uma especificação de arquitetura de cliente, com um servidor web publicado e provisionado automaticamente via script de inicialização (User Data).
 
