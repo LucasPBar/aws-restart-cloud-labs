@@ -40,31 +40,31 @@ Os projetos estão organizados por área de foco: armazenamento e hospedagem, se
 
 ### 🪣 Armazenamento e Hospedagem
 
-**[🪣 Hospedagem de Site Estático com Amazon S3](./aws-s3-static-website-hosting)** — [PT-BR](./aws-s3-static-website-hosting/README.en.md)
+**[🪣 Hospedagem de Site Estático com Amazon S3](./aws-s3-static-website-hosting)**
 
 Criação de um bucket Amazon S3 configurado para hospedar um site estático, com upload de arquivos via AWS CLI, políticas de acesso público controladas e um script de automação para atualizações repetíveis do site.
 
 ---
 
-**[🗄️ Gerenciamento de Armazenamento com Amazon EBS, IAM Role e Amazon S3](./aws-storage-management)** — [PT-BR](./aws-storage-management/README.en.md)
+**[🗄️ Gerenciamento de Armazenamento com Amazon EBS, IAM Role e Amazon S3](./aws-storage-management)**
 
 Rotina de backup automatizado de volumes Amazon EBS via snapshots agendados, com uma IAM Role concedendo acesso seguro entre instâncias e o Amazon S3, além de sincronização de arquivos com versionamento ativo para recuperação de dados excluídos.
 
 ### 🔐 Segurança e Controle de Acesso
 
-**[🔐 Compartilhamento Seguro de Arquivos com Amazon S3, IAM e SNS](./aws-s3-file-sharing)** — [PT-BR](./aws-s3-file-sharing/README.en.md)
+**[🔐 Compartilhamento Seguro de Arquivos com Amazon S3, IAM e SNS](./aws-s3-file-sharing)**
 
 Configuração de um ambiente seguro de compartilhamento de arquivos com um usuário externo, aplicando o Princípio do Menor Privilégio por meio de grupos e políticas IAM restritas, com notificações automáticas por e-mail sempre que o conteúdo do bucket é alterado.
 
 ### 🌐 Arquitetura de Rede
 
-**[🌐 Arquitetura de Rede Segura com Amazon VPC, Bastion Host e NAT Gateway](./aws-vpc-network-foundations)** — [PT-BR](./aws-vpc-network-foundations/README.en.md)
+**[🌐 Arquitetura de Rede Segura com Amazon VPC, Bastion Host e NAT Gateway](./aws-vpc-network-foundations)** 
 
 Construção de uma rede segmentada em sub-redes públicas e privadas, com um servidor bastion controlando o acesso administrativo e um NAT Gateway garantindo conectividade de saída segura para os recursos isolados da internet.
 
 ---
 
-**[🖥️ Rede Multi-AZ com Amazon VPC e Servidor Web em Alta Disponibilidade](./aws-vpc-web-server-deployment)** — [PT-BR](./aws-vpc-web-server-deployment/README.en.md)
+**[🖥️ Rede Multi-AZ com Amazon VPC e Servidor Web em Alta Disponibilidade](./aws-vpc-web-server-deployment)**
 
 Construção de uma rede distribuída em duas Zonas de Disponibilidade a partir de uma especificação de arquitetura de cliente, com um servidor web publicado e provisionado automaticamente via script de inicialização (User Data).
 
