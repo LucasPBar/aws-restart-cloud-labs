@@ -1,7 +1,7 @@
 <h1 align="center">🔐 Compartilhamento Seguro de Arquivos com Amazon S3, IAM e SNS</h1>
 
 <p align="center">
-  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/631ffb97-70fb-49d4-9651-fe28e76dd65c" />
+  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/b4f77405-4fe1-49c9-be7a-afe9f4aed9a3" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ Esse usuário **não tem permissão para alterar políticas do bucket, ajustar p
 ## 3. Arquitetura da Solução
 
 <p align="center">
-  <img width="770" height="482" alt="Image" src="https://github.com/user-attachments/assets/6fdb5793-c24a-4c4f-9842-99370d50d9f8" />
+  <img width="770" height="482" alt="Image" src="https://github.com/user-attachments/assets/50c6d0cc-f95a-4c89-aa4d-9fa5db8acc98" />
 </p>
 
 **Fluxo da solução:**
