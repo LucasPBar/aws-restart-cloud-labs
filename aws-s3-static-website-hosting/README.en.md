@@ -1,7 +1,7 @@
 <h1 align="center">🪣 Static Website Hosting with Amazon S3</h1>
 
 <p align="center">
-  <img width="2752" height="1536" alt="Project cover - Static website hosting with Amazon S3" src="https://github.com/user-attachments/assets/456b9301-8f25-42c8-9817-6fee70020961" />
+  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/8b56fd35-b710-4ca3-8291-f9f926fb78e0" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Beyond the technical aspect, this project also aimed to develop my ability to **
 ## 3. Solution Architecture
 
 <p align="center">
-  <img width="788" height="312" alt="Solution architecture diagram" src="https://github.com/user-attachments/assets/a826cb4e-a78f-4802-a8c3-132191ee44d1" />
+  <img width="788" height="312" alt="Image" src="https://github.com/user-attachments/assets/33d02130-0f24-4db8-8c71-e273eb2da758" />
 </p>
 
 **Solution flow:**
