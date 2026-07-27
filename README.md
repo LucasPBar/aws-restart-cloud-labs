@@ -1,1 +1,5 @@
-# test
+* [AWS S3 File Sharing](./aws-s3-file-sharing)
+* [AWS S3 Static Website Hosting](./aws-s3-static-website-hosting)
+* [AWS Storage Management](./aws-storage-management)
+* [AWS VPC Network Foundations](./aws-vpc-network-foundations)
+* [AWS VPC Web Server Deployment](./aws-vpc-web-server-deployment)
