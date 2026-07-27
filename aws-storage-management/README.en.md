@@ -1,7 +1,7 @@
 <h1 align="center">🗄️ Storage Management with Amazon EBS, IAM Role, and Amazon S3</h1>
 
 <p align="center">
-  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/5cb29c55-5033-4af9-8737-092b2a21b8b9" />
+  <img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bb4ec8fd-080b-4b2e-9aaa-cbf3377e11a2" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ This approach is considered an AWS security best practice: **Roles eliminate the
 ## 3. Solution Architecture
 
 <p align="center">
-  <img width="778" height="486" alt="Image" src="https://github.com/user-attachments/assets/5cfd5dca-99bb-40a7-b0b2-e3178fdcd60c" />
+  <img width="778" height="486" alt="Image" src="https://github.com/user-attachments/assets/0bdd8e62-9bf5-4241-a8cf-c8121b7df442" />
 </p>
 
 **Solution flow:**
